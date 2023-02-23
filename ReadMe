@@ -1,7 +1,9 @@
-This Tool Is Created By Wslt#1056
+# Uasset Reader
 
-What Can This Tool Do?
-The Tool Can Load In A Uasset And Read Every String And Allow You To Edit The String And Compress The Uasset With Oodle
+Simple tool to edit strings in a asset file.
 
-How Do I Get Started?
-Export A Uasset From Fmodel And Drag it Into *Drag And Drop* On The Tool
+<img src="https://cdn.discordapp.com/attachments/1078174769612062742/1078174827816419378/UassetReader.png" align="center" alt="Uasset-Reader">
+
+## Authors
+
+- [@Wslt](https://github.com/CodeWslt)
